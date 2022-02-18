@@ -1,0 +1,7 @@
+{
+    "name": "Heroku Eaglercraft Server",
+    "description": "A Eaglercraft server hosted onto Heroku",
+    "repository": "https://github.com/yeeterlol/heroku-eaglercraft-server",
+    "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Holy-Unblocker/master/views/assets/img/icon.png",
+    "keywords": ["server", "minecraft", "eaglercraft", "games"]
+}
